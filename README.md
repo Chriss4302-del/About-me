@@ -4,4 +4,5 @@ IT student with a broad interest in information technology, systems, and practic
 
 Currently building a portfolio of hands-on IT projects focusing on system understanding, user handling, and structured development.
 
-This profile reflects continuous learning and gradual improvement over time.
+Projects range from basic IT tools and system utilities to academic group projects, reflecting continuous learning over time.
+
