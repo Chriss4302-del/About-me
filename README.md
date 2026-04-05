@@ -3,7 +3,7 @@
 Hi, I’m Christoffer 👋
 
 I’m an IT student focused on cloud, cybersecurity, and IT operations.  
-I enjoy working hands-on with systems and building projects to understand how things work in practice.
+I enjoy learning by trying things out and building small projects along the way.
 
 ---
 
